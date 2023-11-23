@@ -347,6 +347,9 @@ hr {
     font-weight: bold;
     z-index: 10;
     font-size: 49px; }
+  .tile.tile--1 .tile-inner {
+    color: #f2e25d;
+    background: #e55617; }
   .tile.tile-0 .tile-inner {
     color: #000000;
     background: #c0c0c0; }
