@@ -347,6 +347,9 @@ hr {
     font-weight: bold;
     z-index: 10;
     font-size: 49px; }
+  .tile.tile-0 .tile-inner {
+    color: #000000;
+    background: #c0c0c0; }
   .tile.tile-1 .tile-inner {
     color: #000000;
     background: #d8a4ff; }
@@ -359,9 +362,15 @@ hr {
   .tile.tile-4 .tile-inner {
     color: #000000;
     background: #ffff00; }
+  .tile.tile-5 .tile-inner {
+    color: #000000;
+    background: #044c5b; }
   .tile.tile-6 .tile-inner {
     color: #000000;
     background: #fe64f2; }
+  .tile.tile-8 .tile-inner {
+    color: #000000;
+    background: #dd9f1a; }
   .tile.tile-9 .tile-inner {
     color: #000000;
     background: #a021fe; }
