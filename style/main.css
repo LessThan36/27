@@ -371,12 +371,12 @@ hr {
   .tile.tile-6 .tile-inner {
     color: #000000;
     background: #fe64f2; }
-  .tile.tile-8 .tile-inner {
-    color: #000000;
-    background: #dd9f1a; }
   .tile.tile-9 .tile-inner {
     color: #000000;
     background: #a021fe; }
+  .tile.tile-12 .tile-inner {
+    color: #000000;
+    background: #dd9f1a; }
   .tile.tile-18 .tile-inner {
     color: #000000;
     background: #fe21ea; }
