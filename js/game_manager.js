@@ -155,7 +155,7 @@ GameManager.prototype.move = function (direction) {
 
           // The mighty tile
           if (merged.value === 27) self.won = true;
-	  if (merged.value === 8) self.over = true;
+	  if (merged.value === 12) self.over = true;
         }
         
 	 else if (!tile.merged){
