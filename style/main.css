@@ -385,13 +385,22 @@ hr {
     background: #a021fe; }
   .tile.tile-10 .tile-inner {
     color: #000000;
-    background: #47747e; }
+    background: #fc7070; }
   .tile.tile-12 .tile-inner {
     color: #000000;
     background: #dd9f1a; }
+  .tile.tile-15 .tile-inner {
+    color: #000000;
+    background: #045b46; }
   .tile.tile-18 .tile-inner {
     color: #000000;
     background: #fe21ea; }
+  .tile.tile-21 .tile-inner {
+    color: #000000;
+    background: #0024a9; }
+  .tile.tile-24 .tile-inner {
+    color: #000000;
+    background: #00a997; }
   .tile.tile-26 .tile-inner {
     color: #d8ff27;
     background: #494949; }
@@ -401,6 +410,12 @@ hr {
   .tile.tile-27- .tile-inner {
     color: #4b4242;
     background: #039606; }
+  .tile.tile-30 .tile-inner {
+    color: #000000;
+    background: #ac4e4e; }
+  .tile.tile-37 .tile-inner {
+    color: #feffea;
+    background: #3c47a7; }
   .tile.tile-54 .tile-inner {
     color: #fc4a4a;
     background: #af1287; }
@@ -416,9 +431,6 @@ hr {
   .tile.tile-Z7 .tile-inner {
     color: #ffc127;
     background: #885c9f; }
-  .tile.tile-⍔ .tile-inner {
-    color: #ff0000;
-    background: #fab7b7; }
   .tile.tile-🐧 .tile-inner {
     color: #000000;
     background: #d9f8f5; }
