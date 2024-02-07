@@ -1,3 +1,3 @@
-# 243
+# 27
 
-Powers of 3 game.
+27 - the game
