@@ -537,6 +537,13 @@ hr {
   .tile.tile-🐬 .tile-inner {
     color: #000000;
     background: #4db7e0; }
+  .tile.tile-100 .tile-inner {
+    color: #000000;
+    background: #919191;
+    font-size: 40px; }
+    @media screen and (max-width: 520px) {
+      .tile.tile-100 .tile-inner {
+        font-size: 24px; } }
   .tile.tile-162 .tile-inner {
     color: #f2fefe;
     background: #ed0858;
