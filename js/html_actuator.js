@@ -65,6 +65,8 @@ HTMLActuator.prototype.addTile = function (tile) {
   inner.textContent = tile.value;
   if (tile.value === 35) inner.textContent = 0;
   if (tile.value === 105) inner.textContent = "000";
+  if (tile.value === 37) inner.textContent = "Z7";
+  if (tile.value === 111) inner.textContent = "ZZ7";
   if (tile.value === 279) inner.textContent = "27=";
 
   if (tile.previousPosition) {
